@@ -12,6 +12,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AgamPandey133/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/AgamPandey133/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/AgamPandey133/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
@@ -21,5 +22,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AgamPandey133/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/AgamPandey133/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AgamPandey133/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
