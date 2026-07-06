@@ -28,4 +28,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AgamPandey133/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/AgamPandey133/Leetcode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
