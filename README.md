@@ -15,6 +15,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AgamPandey133/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/AgamPandey133/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AgamPandey133/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/AgamPandey133/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/AgamPandey133/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AgamPandey133/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AgamPandey133/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/AgamPandey133/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -40,4 +42,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AgamPandey133/Leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AgamPandey133/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
