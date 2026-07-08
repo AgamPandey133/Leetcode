@@ -18,6 +18,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AgamPandey133/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/AgamPandey133/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/AgamPandey133/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/AgamPandey133/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/AgamPandey133/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/AgamPandey133/Leetcode/tree/master/0686-repeated-string-match) |
 ## Sorting
@@ -48,6 +49,15 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AgamPandey133/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/AgamPandey133/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/AgamPandey133/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/AgamPandey133/Leetcode/tree/master/0686-repeated-string-match) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AgamPandey133/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AgamPandey133/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
