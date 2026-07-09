@@ -21,6 +21,7 @@
 | [0214-shortest-palindrome](https://github.com/AgamPandey133/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/AgamPandey133/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/AgamPandey133/Leetcode/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/AgamPandey133/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -52,12 +53,15 @@
 | [0214-shortest-palindrome](https://github.com/AgamPandey133/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/AgamPandey133/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/AgamPandey133/Leetcode/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/AgamPandey133/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AgamPandey133/Leetcode/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/AgamPandey133/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AgamPandey133/Leetcode/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/AgamPandey133/Leetcode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
