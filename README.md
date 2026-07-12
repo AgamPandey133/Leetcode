@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AgamPandey133/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/AgamPandey133/Leetcode/tree/master/0049-group-anagrams) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AgamPandey133/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0218-the-skyline-problem](https://github.com/AgamPandey133/Leetcode/tree/master/0218-the-skyline-problem) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AgamPandey133/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/AgamPandey133/Leetcode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
@@ -87,6 +88,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AgamPandey133/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/AgamPandey133/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AgamPandey133/Leetcode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Greedy
