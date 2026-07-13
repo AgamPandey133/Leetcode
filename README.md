@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/AgamPandey133/Leetcode/tree/master/0049-group-anagrams) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AgamPandey133/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0218-the-skyline-problem](https://github.com/AgamPandey133/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0542-01-matrix](https://github.com/AgamPandey133/Leetcode/tree/master/0542-01-matrix) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AgamPandey133/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/AgamPandey133/Leetcode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/AgamPandey133/Leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AgamPandey133/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0542-01-matrix](https://github.com/AgamPandey133/Leetcode/tree/master/0542-01-matrix) |
 ## Database
 |  |
 | ------- |
@@ -149,8 +151,13 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/AgamPandey133/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/AgamPandey133/Leetcode/tree/master/0542-01-matrix) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/AgamPandey133/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/AgamPandey133/Leetcode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
