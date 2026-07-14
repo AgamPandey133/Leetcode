@@ -18,6 +18,7 @@
 | [0049-group-anagrams](https://github.com/AgamPandey133/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/AgamPandey133/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AgamPandey133/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/AgamPandey133/Leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0049-group-anagrams](https://github.com/AgamPandey133/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/AgamPandey133/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/AgamPandey133/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/AgamPandey133/Leetcode/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/AgamPandey133/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/AgamPandey133/Leetcode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/AgamPandey133/Leetcode/tree/master/1392-longest-happy-prefix) |
@@ -37,6 +39,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/AgamPandey133/Leetcode/tree/master/0049-group-anagrams) |
 | [0218-the-skyline-problem](https://github.com/AgamPandey133/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0242-valid-anagram](https://github.com/AgamPandey133/Leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
