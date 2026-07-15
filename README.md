@@ -146,6 +146,7 @@
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AgamPandey133/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AgamPandey133/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
 | ------- |
@@ -172,4 +173,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AgamPandey133/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AgamPandey133/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AgamPandey133/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
