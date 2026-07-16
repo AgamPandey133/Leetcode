@@ -12,6 +12,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AgamPandey133/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/AgamPandey133/Leetcode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/AgamPandey133/Leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AgamPandey133/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0049-group-anagrams](https://github.com/AgamPandey133/Leetcode/tree/master/0049-group-anagrams) |
 | [0218-the-skyline-problem](https://github.com/AgamPandey133/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/AgamPandey133/Leetcode/tree/master/0242-valid-anagram) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AgamPandey133/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/AgamPandey133/Leetcode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/AgamPandey133/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AgamPandey133/Leetcode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AgamPandey133/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +150,7 @@
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AgamPandey133/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AgamPandey133/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AgamPandey133/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -177,4 +181,9 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AgamPandey133/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AgamPandey133/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AgamPandey133/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
