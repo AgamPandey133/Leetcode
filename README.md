@@ -12,6 +12,7 @@
 | [1250-check-if-it-is-a-good-array](https://github.com/AgamPandey133/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AgamPandey133/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/AgamPandey133/Leetcode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AgamPandey133/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/AgamPandey133/Leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AgamPandey133/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -151,6 +152,7 @@
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/AgamPandey133/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AgamPandey133/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AgamPandey133/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AgamPandey133/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AgamPandey133/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/AgamPandey133/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AgamPandey133/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AgamPandey133/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AgamPandey133/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
