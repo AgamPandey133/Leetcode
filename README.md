@@ -113,6 +113,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AgamPandey133/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/AgamPandey133/Leetcode/tree/master/0402-remove-k-digits) |
+| [0738-monotone-increasing-digits](https://github.com/AgamPandey133/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AgamPandey133/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/AgamPandey133/Leetcode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 ## Divide and Conquer
@@ -156,6 +157,7 @@
 ## Math
 |  |
 | ------- |
+| [0738-monotone-increasing-digits](https://github.com/AgamPandey133/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [1250-check-if-it-is-a-good-array](https://github.com/AgamPandey133/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AgamPandey133/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AgamPandey133/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
