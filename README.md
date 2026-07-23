@@ -13,6 +13,7 @@
 | [1250-check-if-it-is-a-good-array](https://github.com/AgamPandey133/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AgamPandey133/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/AgamPandey133/Leetcode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/AgamPandey133/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AgamPandey133/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/AgamPandey133/Leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AgamPandey133/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -57,6 +58,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/AgamPandey133/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/AgamPandey133/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/AgamPandey133/Leetcode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/AgamPandey133/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/AgamPandey133/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AgamPandey133/Leetcode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AgamPandey133/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AgamPandey133/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/AgamPandey133/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/AgamPandey133/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AgamPandey133/Leetcode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Greedy
@@ -208,6 +211,7 @@
 | [0316-remove-duplicate-letters](https://github.com/AgamPandey133/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/AgamPandey133/Leetcode/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AgamPandey133/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/AgamPandey133/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -215,4 +219,5 @@
 | [0316-remove-duplicate-letters](https://github.com/AgamPandey133/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/AgamPandey133/Leetcode/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AgamPandey133/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/AgamPandey133/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 <!---LeetCode Topics End-->
